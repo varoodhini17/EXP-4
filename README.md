@@ -36,17 +36,26 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+Half wave rectifier without filter:
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.30.jpeg?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154534.png?raw=true)
+
+Fullwave rectifier without filter:
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154652.png?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.31%20(1).jpeg?raw=true)
 Half wave rectifier with filter:
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.31.jpeg?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154557.png?raw=true)
 
-Bridge rectifier with filter:
+Full wave rectifier with filter:
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154652.png?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.31%20(2).jpeg?raw=true)
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.32.jpeg?raw=true)
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/WhatsApp%20Image%202026-03-19%20at%2018.19.32%20(1).jpeg?raw=true)
 WAVEFORM:
-
+![image](https://github.com/MUTTHU10/EXP-4/blob/main/Screenshot%202026-03-19%20154324.png?raw=true)
 
 RESULT:
 
